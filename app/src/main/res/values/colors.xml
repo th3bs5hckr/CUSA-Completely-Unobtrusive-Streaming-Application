@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cusa_red">#FFFF0000</color>
+    <color name="cusa_purple">#FF9146FF</color>
+    <color name="cusa_dark_bg">#FF121212</color>
+    <color name="cusa_dark_surface">#FF1E1E1E</color>
+</resources>

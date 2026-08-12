@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base platform theme. UI itself is rendered entirely by Jetpack Compose
+         (MaterialTheme + darkColorScheme in CUSAApp.kt), so this only controls
+         the window/status bar before Compose takes over. -->
+    <style name="Theme.CUSA" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/cusa_dark_bg</item>
+        <item name="android:navigationBarColor">@color/cusa_dark_bg</item>
+        <item name="android:windowBackground">@color/cusa_dark_bg</item>
+    </style>
+</resources>
